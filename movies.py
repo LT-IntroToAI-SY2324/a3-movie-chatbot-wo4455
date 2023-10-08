@@ -398,6 +398,18 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
         ],
     ),
     (
+        "pulp fiction",
+        "quentin tarantino",
+        1994,
+        [
+            "samuel l. jackson",
+            "john travolta",
+            "uma thurman",
+            "bruce willis",
+            "quentin tarantino",
+        ],
+    ),
+    (
         "johnny got his gun",
         "dalton trumbo",
         1971,
